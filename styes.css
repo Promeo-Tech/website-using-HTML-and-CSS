@@ -1,0 +1,192 @@
+.landingpage{
+    color: FFhite;
+    font: 30px Arial, sans-serif;
+    font-size:1500%;
+    text-align:center;
+    font-variant-caps: all-small-caps;
+    opacity: 0.75;
+    line-height: 50%;
+
+}
+
+.landingpage1{ 
+    background-image:  url("https://www.rantfood.com/wp-content/uploads/2020/09/Useful-Tips-For-You-To-Approach-The-Carbs-In-A-Hard-Taco-Shell-4-930x620.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+.WelcomingSubjectLine{
+    color:white;
+    font-size: 700%;
+    text-decoration: red;
+    text-align: center;
+    opacity: 0.75;
+    line-height: 50%;
+}
+
+.HeroImage{
+    margin-left: 50px;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+
+
+.landingpageheader2{
+    font-size: 700%;
+    opacity: 0.75;
+    line-height: 15%;
+    text-decoration:wavy;
+}
+.OurLocations{
+    font-size: 300%; 
+    margin-left: 30px;
+    opacity: 0.75;
+
+}
+
+div {
+    font-size: 300%;
+    text-align: center;
+    font-variant-caps:all-small-caps;
+    color:aliceblue;
+    
+}
+
+div:hover {
+    font-size: 350%
+}
+
+a, a,:link {
+    color:white;
+    
+    
+}
+
+.ReachOut {
+    font-size: 300%;
+    opacity: 0.75;
+    
+
+}
+
+    
+input{
+    padding: 10px ;
+    padding-right: 300px;
+    border-width: .2em;
+    font-size: large;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+.ChickenTacos{
+    color: orangered;
+    font-size: 400%;
+    text-align:center;
+    opacity: 0.75
+}
+
+.landingpage2{
+    background-image:  url("Untitled\ design.png");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.Chicktacospage2{
+    font-size: 350%;
+    text-align: center;
+    font-variant-caps:all-small-caps;
+    color:aliceblue;
+    opacity: 0.75
+
+} 
+.Chicktacospage2:hover{
+    font-size: 450%;
+
+}
+
+.HeroImageChickenTacos {
+    margin-left: 510px;
+    padding: 30px;
+    border-radius: 25%;
+}
+
+.TypesOfChickenTacos{
+    font-size: 300%; 
+    margin-left: 700px;
+    opacity: 0.75;
+
+}
+
+.TablePrices{
+    font-size: 200%; 
+    margin-left: 700px;
+    opacity: 0.75;
+    border-style:solid;
+    border-color: black;
+}
+.para1 {
+    font-size: 400%; 
+    margin-left: 600px;
+    opacity: 0.75;
+    color: orangered;
+
+}
+
+.typesoftacos{
+    font-size: 300%; 
+    margin-left: 750px;
+    opacity: 0.75;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+.BeefTacos{
+    color: orangered;
+    font-size: 360%;
+    text-align:center;
+    opacity: 0.75;
+
+}
+.landingpage3{
+    background-image:  url("Untitled\ design\ \(1\).png");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.HeroImageBeefTacos{
+    margin-left: 460px;
+    padding: 30px;
+    border-radius: 25%;
+}
+.typesoftacos2 {
+    font-size: 300%; 
+    margin-left: 650px;
+    opacity: 0.75;
+}
+.typesofbeeftacos2 {
+    font-size: 300%; 
+    margin-left: 700px;
+    opacity: 0.75;
+}
+
+.para2 {
+    font-size: 400%; 
+    margin-left: 530px;
+    opacity: 0.75;
+    color: orangered;
+
+}
+.TablePrices2 {
+    font-size: 200%; 
+    margin-left: 700px;
+    opacity: 0.75;
+    border-style:solid;
+    border-color: black;
+
+}
+   
+    
